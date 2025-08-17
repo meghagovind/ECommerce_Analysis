@@ -75,4 +75,9 @@ Visualization: Power BI, Jupyter Notebook
 
 Techniques: Data Cleaning, EDA, RFM Segmentation, Business Analytics
 
-### 👉 This project demonstrates how raw retail data can be transformed into actionable insights for sales growth and customer retention.
+ 👉 This project demonstrates how raw retail data can be transformed into actionable insights for sales growth and customer retention.
+
+## 📺 Live Dashboard
+Explore the interactive Power BI dashboard here:
+👉 View Dashboard
+<img width="1058" height="657" alt="image" src="https://github.com/user-attachments/assets/6745ad2d-8035-4dda-a739-10199a342f80" />
